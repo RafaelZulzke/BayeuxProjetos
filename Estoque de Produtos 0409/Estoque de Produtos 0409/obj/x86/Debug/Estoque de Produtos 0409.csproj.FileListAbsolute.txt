@@ -1,0 +1,15 @@
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Cadastro.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Alterar.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Excluir.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Incluir.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Localizar.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque_de_Produtos_0409.Properties.Resources.resources
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.csproj.GenerateResource.Cache
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\bin\Debug\Estoque de Produtos 0409.exe
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\bin\Debug\Estoque de Produtos 0409.pdb
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.exe
+E:\Etec\3º Semestre\PCII\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.pdb
+E:\3° Modulo\Cal\PC - 2\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.exe
+E:\3° Modulo\Cal\PC - 2\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.pdb
+G:\Bayeux\3° Modulo\Cal\PC - 2\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.exe
+G:\Bayeux\3° Modulo\Cal\PC - 2\Estoque de Produtos 0409\Estoque de Produtos 0409\obj\x86\Debug\Estoque de Produtos 0409.pdb

@@ -1,0 +1,8 @@
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Alterar.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Excluir.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Incluir.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Localizar.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Etec\3º Semestre\PCII\123\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
