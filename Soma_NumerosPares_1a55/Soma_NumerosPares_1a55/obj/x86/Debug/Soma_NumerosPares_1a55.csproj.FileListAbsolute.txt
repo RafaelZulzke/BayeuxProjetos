@@ -1,0 +1,7 @@
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\obj\x86\Debug\Soma_NumerosPares_1a55.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\obj\x86\Debug\Soma_NumerosPares_1a55.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\obj\x86\Debug\Soma_NumerosPares_1a55.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\bin\Debug\Soma_NumerosPares_1a55.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\bin\Debug\Soma_NumerosPares_1a55.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\obj\x86\Debug\Soma_NumerosPares_1a55.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Soma_NumerosPares_1a55\Soma_NumerosPares_1a55\obj\x86\Debug\Soma_NumerosPares_1a55.pdb

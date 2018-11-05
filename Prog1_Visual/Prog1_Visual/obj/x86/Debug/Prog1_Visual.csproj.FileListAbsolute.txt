@@ -1,0 +1,16 @@
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\bin\Debug\Prog1_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\bin\Debug\Prog1_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.Form1.resources
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.Properties.Resources.resources
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.csproj.GenerateResource.Cache
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\bin\Debug\Prog1_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\bin\Debug\Prog1_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Prog1_Visual\Prog1_Visual\obj\x86\Debug\Prog1_Visual.pdb

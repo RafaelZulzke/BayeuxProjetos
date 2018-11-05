@@ -1,0 +1,24 @@
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.exe.manifest
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.application
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.exe.manifest
+F:\Etec\2º Semestre\PC1\C#\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.application
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.exe
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.exe.manifest
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.application
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\bin\Debug\Tabuada_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.exe.manifest
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Tabuada_Visual\Tabuada_Visual\obj\x86\Debug\Tabuada_Visual.application
