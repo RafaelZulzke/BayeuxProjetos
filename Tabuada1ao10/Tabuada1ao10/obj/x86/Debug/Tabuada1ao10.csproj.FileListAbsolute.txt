@@ -1,0 +1,4 @@
+F:\Etec\2º Semestre\PC1\C#\Tabuada1ao10\Tabuada1ao10\bin\Debug\Tabuada1ao10.exe
+F:\Etec\2º Semestre\PC1\C#\Tabuada1ao10\Tabuada1ao10\bin\Debug\Tabuada1ao10.pdb
+F:\Etec\2º Semestre\PC1\C#\Tabuada1ao10\Tabuada1ao10\obj\x86\Debug\Tabuada1ao10.exe
+F:\Etec\2º Semestre\PC1\C#\Tabuada1ao10\Tabuada1ao10\obj\x86\Debug\Tabuada1ao10.pdb

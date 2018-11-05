@@ -1,0 +1,6 @@
+F:\Etec\2º Semestre\PC1\C#\Sucessores de x\Sucessores de x\bin\Debug\Sucessores de x.exe
+F:\Etec\2º Semestre\PC1\C#\Sucessores de x\Sucessores de x\bin\Debug\Sucessores de x.pdb
+F:\Etec\2º Semestre\PC1\C#\Sucessores de x\Sucessores de x\obj\x86\Debug\Sucessores de x.exe
+F:\Etec\2º Semestre\PC1\C#\Sucessores de x\Sucessores de x\obj\x86\Debug\Sucessores de x.pdb
+F:\2° Modulo\Cal\PC-1\C#\Sucessores de x\Sucessores de x\obj\x86\Debug\Sucessores de x.exe
+F:\2° Modulo\Cal\PC-1\C#\Sucessores de x\Sucessores de x\obj\x86\Debug\Sucessores de x.pdb

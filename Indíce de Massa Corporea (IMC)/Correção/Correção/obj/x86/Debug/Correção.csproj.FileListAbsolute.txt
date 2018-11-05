@@ -1,0 +1,4 @@
+I:\2° Modulo\Cal\PC-1\C#\Indíce de Massa Corporea (IMC)\Correção\Correção\bin\Debug\Correção.exe
+I:\2° Modulo\Cal\PC-1\C#\Indíce de Massa Corporea (IMC)\Correção\Correção\bin\Debug\Correção.pdb
+I:\2° Modulo\Cal\PC-1\C#\Indíce de Massa Corporea (IMC)\Correção\Correção\obj\x86\Debug\Correção.exe
+I:\2° Modulo\Cal\PC-1\C#\Indíce de Massa Corporea (IMC)\Correção\Correção\obj\x86\Debug\Correção.pdb

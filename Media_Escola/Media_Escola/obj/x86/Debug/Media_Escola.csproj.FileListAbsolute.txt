@@ -1,0 +1,4 @@
+F:\2° Modulo\Cal\PC-1\C#\Exercicios Usando C#\Media_Escola\Media_Escola\bin\Debug\Media_Escola.exe
+F:\2° Modulo\Cal\PC-1\C#\Exercicios Usando C#\Media_Escola\Media_Escola\bin\Debug\Media_Escola.pdb
+F:\2° Modulo\Cal\PC-1\C#\Exercicios Usando C#\Media_Escola\Media_Escola\obj\x86\Debug\Media_Escola.exe
+F:\2° Modulo\Cal\PC-1\C#\Exercicios Usando C#\Media_Escola\Media_Escola\obj\x86\Debug\Media_Escola.pdb

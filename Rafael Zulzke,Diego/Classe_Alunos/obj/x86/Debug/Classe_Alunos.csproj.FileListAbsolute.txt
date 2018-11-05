@@ -1,0 +1,4 @@
+C:\Users\Usuário-ETEC\Desktop\Classe_Alunos\Classe_Alunos\bin\Debug\Classe_Alunos.exe
+C:\Users\Usuário-ETEC\Desktop\Classe_Alunos\Classe_Alunos\bin\Debug\Classe_Alunos.pdb
+C:\Users\Usuário-ETEC\Desktop\Classe_Alunos\Classe_Alunos\obj\x86\Debug\Classe_Alunos.exe
+C:\Users\Usuário-ETEC\Desktop\Classe_Alunos\Classe_Alunos\obj\x86\Debug\Classe_Alunos.pdb

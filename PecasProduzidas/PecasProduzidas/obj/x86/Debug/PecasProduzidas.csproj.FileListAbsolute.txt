@@ -1,0 +1,4 @@
+E:\Etec\2º Semestre\PC1\C#\PecasProduzidas\PecasProduzidas\bin\Debug\PecasProduzidas.exe
+E:\Etec\2º Semestre\PC1\C#\PecasProduzidas\PecasProduzidas\bin\Debug\PecasProduzidas.pdb
+E:\Etec\2º Semestre\PC1\C#\PecasProduzidas\PecasProduzidas\obj\x86\Debug\PecasProduzidas.exe
+E:\Etec\2º Semestre\PC1\C#\PecasProduzidas\PecasProduzidas\obj\x86\Debug\PecasProduzidas.pdb
