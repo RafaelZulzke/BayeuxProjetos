@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_NÚMEROS_MEDIA_MAIOR_MENOR", "8_NÚMEROS_MEDIA_MAIOR_MENOR\8_NÚMEROS_MEDIA_MAIOR_MENOR.csproj", "{16176D08-7E68-436E-8EDB-D450FD367627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16176D08-7E68-436E-8EDB-D450FD367627}.Debug|x86.ActiveCfg = Debug|x86
+		{16176D08-7E68-436E-8EDB-D450FD367627}.Debug|x86.Build.0 = Debug|x86
+		{16176D08-7E68-436E-8EDB-D450FD367627}.Release|x86.ActiveCfg = Release|x86
+		{16176D08-7E68-436E-8EDB-D450FD367627}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

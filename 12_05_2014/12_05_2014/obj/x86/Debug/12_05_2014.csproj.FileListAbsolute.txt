@@ -1,0 +1,11 @@
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\_12_05_2014.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\_12_05_2014.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\bin\Debug\12_05_2014.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\bin\Debug\12_05_2014.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.exe
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais Windows Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.pdb
+E:\2° Modulo\Cal\PC - 1\C#\Visual Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.exe
+E:\2° Modulo\Cal\PC - 1\C#\Visual Forms\12_05_2014\12_05_2014\obj\x86\Debug\12_05_2014.pdb

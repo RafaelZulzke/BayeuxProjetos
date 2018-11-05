@@ -1,0 +1,10 @@
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\bin\Debug\7_4_2014.exe
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\bin\Debug\7_4_2014.pdb
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\_7_4_2014.Form1.resources
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\_7_4_2014.Form2.resources
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\_7_4_2014.Properties.Resources.resources
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\7_4_2014.csproj.GenerateResource.Cache
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\7_4_2014.exe
+G:\2° Modulo\Cal\PC-1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\7_4_2014.pdb
+E:\2° Modulo\Cal\PC - 1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\7_4_2014.exe
+E:\2° Modulo\Cal\PC - 1\C#\Visual Forms\7_4_2014\7_4_2014\obj\x86\Debug\7_4_2014.pdb
