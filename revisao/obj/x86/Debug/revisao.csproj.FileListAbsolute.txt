@@ -1,0 +1,30 @@
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\bin\Debug\revisao.exe
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\bin\Debug\revisao.pdb
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.Form1.resources
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.Properties.Resources.resources
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.csproj.GenerateResource.Cache
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.exe
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.pdb
+c:\users\usuário-etec\documents\visual studio 2010\Projects\revisao\revisao\obj\x86\Debug\revisao.Form2.resources
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.exe
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\bin\Debug\revisao.exe
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\bin\Debug\revisao.pdb
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.csprojResolveAssemblyReference.cache
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Form1.resources
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Form2.resources
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Properties.Resources.resources
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.csproj.GenerateResource.Cache
+E:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.pdb
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.exe
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.pdb
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\bin\Debug\revisao.exe
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\bin\Debug\revisao.pdb
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.csprojResolveAssemblyReference.cache
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Form1.resources
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Form2.resources
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.Properties.Resources.resources
+F:\3 Modulo\PC-2\Exercicios\revisao\revisao\obj\x86\Debug\revisao.csproj.GenerateResource.Cache
+F:\revisao\obj\x86\Debug\revisao.exe
+F:\revisao\obj\x86\Debug\revisao.pdb
+E:\3° Modulo\Cal\PC - 2\revisao\obj\x86\Debug\revisao.exe
+E:\3° Modulo\Cal\PC - 2\revisao\obj\x86\Debug\revisao.pdb
