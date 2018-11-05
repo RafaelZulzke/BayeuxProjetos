@@ -1,0 +1,16 @@
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.csprojResolveAssemblyReference.cache
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Form3.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Form1.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Form4.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Form5.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Incluir.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.Properties.Resources.resources
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.csproj.GenerateResource.Cache
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\bin\Debug\Marcos_Ariel.exe
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\bin\Debug\Marcos_Ariel.pdb
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.exe
+F:\Etec\3º Semestre\PCII\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.pdb
+E:\3° Modulo\Cal\PC - 2\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.exe
+E:\3° Modulo\Cal\PC - 2\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.pdb
+F:\3° Modulo\Cal\PC - 2\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.exe
+F:\3° Modulo\Cal\PC - 2\Marcos_Ariel\Marcos_Ariel\obj\x86\Debug\Marcos_Ariel.pdb

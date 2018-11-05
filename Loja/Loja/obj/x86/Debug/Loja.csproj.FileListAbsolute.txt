@@ -1,0 +1,20 @@
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.Form1.resources
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.Properties.Resources.resources
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.csproj.GenerateResource.Cache
+Y:\Etec\3º Semestre\PCII\Loja\Loja\bin\Debug\Loja.exe
+Y:\Etec\3º Semestre\PCII\Loja\Loja\bin\Debug\Loja.pdb
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.csprojResolveAssemblyReference.cache
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.Form1.resources
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.Properties.Resources.resources
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.csproj.GenerateResource.Cache
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.exe
+Y:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.pdb
+Z:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.exe
+Z:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.pdb
+G:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.exe
+G:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.pdb
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.exe
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.pdb
+F:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.csprojResolveAssemblyReference.cache
+E:\Etec\3º Semestre\PCII\Loja\Loja\obj\x86\Debug\Loja.exe
+E:\3° Modulo\Cal\PC - 2\Loja\Loja\obj\x86\Debug\Loja.exe
