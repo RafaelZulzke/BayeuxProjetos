@@ -1,0 +1,21 @@
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.FormMedia.resources
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.FormMedia.resources
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.Properties.Resources.resources
+G:\Etec\2º Semestre\PC1\C#\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\bin\Debug\MEDIA_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.FormMedia.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\MEDIA_Visual\MEDIA_Visual\obj\x86\Debug\MEDIA_Visual.csproj.GenerateResource.Cache

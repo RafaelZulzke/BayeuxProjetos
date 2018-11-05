@@ -1,0 +1,33 @@
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\bin\Debug\Menu.exe
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\bin\Debug\Menu.pdb
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.FRMPrincipal.resources
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.exe
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.pdb
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Form2.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Form2.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.FRMPrincipal.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.Form2.resources
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.FRMPrincipal.resources
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Usuário-ETEC\Desktop\Menu\Menu\obj\x86\Debug\Menu.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.exe
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\bin\Debug\Menu.exe
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\bin\Debug\Menu.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Form2.resources
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.FRMPrincipal.resources
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
