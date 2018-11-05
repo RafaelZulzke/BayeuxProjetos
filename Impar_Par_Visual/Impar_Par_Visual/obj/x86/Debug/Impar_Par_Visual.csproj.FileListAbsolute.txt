@@ -1,0 +1,15 @@
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\bin\Debug\Impar_Par_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\bin\Debug\Impar_Par_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.FrmVerifica.resources
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\bin\Debug\Impar_Par_Visual.exe
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\bin\Debug\Impar_Par_Visual.pdb
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.FrmVerifica.resources
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.Properties.Resources.resources
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.csproj.GenerateResource.Cache
+G:\Etec\2º Semestre\PC1\C#\Impar_Par_Visual\Impar_Par_Visual\obj\x86\Debug\Impar_Par_Visual.csprojResolveAssemblyReference.cache
