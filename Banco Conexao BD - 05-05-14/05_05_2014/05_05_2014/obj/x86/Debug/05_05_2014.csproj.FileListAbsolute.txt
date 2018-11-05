@@ -1,0 +1,17 @@
+F:\ETEC 02\PC\05_05_2014\05_05_2014\obj\x86\Debug\_05_05_2014.Form1.resources
+F:\ETEC 02\PC\05_05_2014\05_05_2014\obj\x86\Debug\_05_05_2014.Properties.Resources.resources
+F:\ETEC 02\PC\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.csproj.GenerateResource.Cache
+F:\ETEC 02\PC\05_05_2014\05_05_2014\bin\Debug\05_05_2014.exe
+F:\ETEC 02\PC\05_05_2014\05_05_2014\bin\Debug\05_05_2014.pdb
+F:\ETEC 02\PC\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.exe
+F:\ETEC 02\PC\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.exe
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\bin\Debug\05_05_2014.exe
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\bin\Debug\05_05_2014.pdb
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.csprojResolveAssemblyReference.cache
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\_05_05_2014.Form1.resources
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\_05_05_2014.Properties.Resources.resources
+G:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\Banco Conexao BD - 05-05-14\05_05_2014\05_05_2014\obj\x86\Debug\05_05_2014.csproj.GenerateResource.Cache

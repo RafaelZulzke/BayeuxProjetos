@@ -1,0 +1,16 @@
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\bin\Debug\area_triangulo_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\bin\Debug\area_triangulo_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.csprojResolveAssemblyReference.cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\bin\Debug\area_triangulo_Visual.exe
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\bin\Debug\area_triangulo_Visual.pdb
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.csprojResolveAssemblyReference.cache
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.Form1.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.Properties.Resources.resources
+F:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Visuais WINDOWS FORMS\area_triangulo_Visual\area_triangulo_Visual\obj\x86\Debug\area_triangulo_Visual.csproj.GenerateResource.Cache
