@@ -1,0 +1,15 @@
+J:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.csprojResolveAssemblyReference.cache
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.csprojResolveAssemblyReference.cache
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.exe.config
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.exe
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.pdb
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.exe
+I:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.pdb
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.exe.config
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.exe
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.pdb
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.exe
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\bin\Debug\Delta.pdb
+F:\2° Modulo\Cal\PC-1\C#\Delta\Delta\obj\x86\Debug\Delta.csprojResolveAssemblyReference.cache
+E:\2° Modulo\Cal\PC - 1\C#\Exercicios Usando C#\Delta\Delta\bin\Debug\Delta.exe.config
+E:\2° Modulo\Cal\PC - 1\C#\Exercicios Usando C#\Delta\Delta\obj\x86\Debug\Delta.exe

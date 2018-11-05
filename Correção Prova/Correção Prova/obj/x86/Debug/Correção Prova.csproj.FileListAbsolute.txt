@@ -1,0 +1,8 @@
+G:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\bin\Debug\Correção Prova.exe
+G:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\bin\Debug\Correção Prova.pdb
+G:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.exe
+G:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.pdb
+F:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.exe
+F:\Etec\2º Semestre\PC1\C#\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.pdb
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Just Code\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.exe
+E:\Etec\2º Semestre\PC1\C#\Desenvolvidos\Just Code\Correção Prova\Correção Prova\obj\x86\Debug\Correção Prova.pdb

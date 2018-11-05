@@ -1,0 +1,9 @@
+math.pow(b,2)= b²
+
+math.pow(delta,0.5) ==> raiz de delta
+
+delta = b²-4*a*c
+
+r1=(-b-raiz de delta)/(2*a)
+
+r2=(-b+raiz de delta)/(2*a)

@@ -1,0 +1,6 @@
+F:\Etec\2º Semestre\PC1\C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Etec\2º Semestre\PC1\C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Etec\2º Semestre\PC1\C#\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\Etec\2º Semestre\PC1\C#\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+F:\2° Modulo\Cal\PC-1\C#\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+F:\2° Modulo\Cal\PC-1\C#\Exercicios Usando C#\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
