@@ -1,0 +1,38 @@
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form1.resources
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form2.resources
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form3.resources
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Properties.Resources.resources
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csproj.GenerateResource.Cache
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\bin\Debug\Definitivo.exe
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\bin\Debug\Definitivo.pdb
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.exe
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.pdb
+F:\Etec\2º Semestre\Trab_Tlbd_Pc1_Diego_Rafael\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csprojResolveAssemblyReference.cache
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.exe
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.pdb
+F:\Definitivo\Definitivo\bin\Debug\Definitivo.exe.manifest
+F:\Definitivo\Definitivo\bin\Debug\Definitivo.application
+F:\Definitivo\Definitivo\bin\Debug\Definitivo.exe
+F:\Definitivo\Definitivo\bin\Debug\Definitivo.pdb
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csprojResolveAssemblyReference.cache
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form1.resources
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form2.resources
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form3.resources
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Properties.Resources.resources
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csproj.GenerateResource.Cache
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.exe.manifest
+F:\Definitivo\Definitivo\obj\x86\Debug\Definitivo.application
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.exe
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.pdb
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\bin\Debug\Definitivo.exe.manifest
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\bin\Debug\Definitivo.application
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\bin\Debug\Definitivo.exe
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\bin\Debug\Definitivo.pdb
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csprojResolveAssemblyReference.cache
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form1.resources
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form2.resources
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Form3.resources
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.Properties.Resources.resources
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.csproj.GenerateResource.Cache
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.exe.manifest
+G:\Rafael Zulzke e Diego\Definitivo\Definitivo\obj\x86\Debug\Definitivo.application
